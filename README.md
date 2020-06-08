@@ -20,4 +20,4 @@ This project aims to provide a minimal base for building sites with Gatsby in co
 
 1. Clone this repo and integrate the mockups.
 2. Implement as many features as possible.
-3. Publish the end result on Netlify and send un the URL along with a link to the repository.
+3. Publish the end result on Netlify and send us the URL along with a link to the repository.
