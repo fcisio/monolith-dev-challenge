@@ -14,7 +14,8 @@ This project aims to provide a minimal base for building sites with Gatsby in co
 - Usage of [Gatsby Plugin](https://www.gatsbyjs.org/plugins/) is recommended.
 - Use SASS, Styled Components or both.
 - Do not use any framework: Bootstrap, Foundation, ...
-- Use [Unsplash API](https://www.gatsbyjs.org/packages/gatsby-source-unsplash/) to populate images (Gatsby Plugin) - The features should be implemented with Locomotive Scroll, GSAP and CSS Animations
+- Use [Unsplash API](https://www.gatsbyjs.org/packages/gatsby-source-unsplash/) to populate images (Gatsby Plugin)
+- The features should be implemented with Locomotive Scroll, GSAP and CSS Animations
 - The end result should be close to the mockup, but it doesn’t need to be perfect. We mainly want to see the placement, responsiveness and features.
 - Publish the project on Netlify and send us the URL
 
